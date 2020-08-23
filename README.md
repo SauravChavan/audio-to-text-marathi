@@ -1,2 +1,2 @@
 # audio-to-text-marathi
-The project consists of a Deep Learning model to try to convert the Marathi language audio to the respective Marathi transcript. The data used for this project is collected from the open NLP source www.openslr.org.
+The project consists of a Deep Learning model to try to convert the Marathi language audio to the respective Marathi transcript. The data used for this project is collected from the open NLP source www.openslr.org. The .txt file was made using the certain commands in command promt to copy all the names of the .wav files in a .txt file and then making a column having all the names of audio files in Excel Sheet.
